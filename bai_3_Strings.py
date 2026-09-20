@@ -48,8 +48,7 @@ my_stri1 = 'Hello'
 my_stri2 = 'World'
 stri1_plus_stri2 = my_stri1 + ' ' + my_stri2#Ghep 2 chuoi lai voi nhau bang dau cong
 print(stri1_plus_stri2)
-
-#Repeating Strings
+#Repeating Strings = *
 sound = 'ha'
 repeat_sound = sound * 3 # * giup lap lai so lan minh muon
 print(repeat_sound)
@@ -80,5 +79,5 @@ name_and_age_3 = f'Hello, my name is {name3} and I {age3} years old.'#dung f'' v
 print(name_and_age_3)
 score3 = 9
 score4 = 10
-total_score = f'My score Math is {score3} and English is {score4},Total both is {score3 + score4}'#Khi dung cach nao chung ta khong can dung str() vi no da duoc chuyen doi sang noi suy
+total_score = f'My score Math is {score3} and English is {score4},Total both is {score3 + score4}'#Khi dung cach nao chung ta khong can dung str() vi no da duoc chuyen doi sang noi suy nhung van phai cung 1 data types
 print(total_score)

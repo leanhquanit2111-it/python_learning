@@ -27,7 +27,7 @@ print(type(developer))
 #function types() print for each one
 my_integer_var = 10
 print(type(my_integer_var))
-my_float_var = 5
+my_float_var = 5.0
 print(type(my_float_var))
 my_string_var = 'Fuk'
 print(type(my_string_var))
